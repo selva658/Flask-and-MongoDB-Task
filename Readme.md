@@ -10,5 +10,5 @@
 # Running the app
  
     - python app.py
-    <img src="./image.png" alt="Girl in a jacket" width="500" height="600">
+     <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="css3" width="40" height="40"/>
 
