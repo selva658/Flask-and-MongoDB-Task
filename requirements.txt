@@ -1,0 +1,10 @@
+Flask
+pymongo
+dnspython
+python-dotenv
+Flask-PyMongo
+Flask-JWT-Extended
+flask_pymongo
+PyJWT
+mongoengine
+flask_jwt_extended
