@@ -3,8 +3,8 @@ from flask_pymongo import PyMongo
 import datetime
 
 app = Flask(__name__)
-app.config['MONGO_URI'] = 'mongodb+srv://selva658:selva100_@cluster0.fowgx.mongodb.net/lybrate'
-app.config['SECRET_KEY'] = 'EYMDyiQy4MtIQPcET-xV-yG1dNWGF1P0A9tiaYumN6EXtldIamagSfGgNQypmCq4'
+app.config['MONGO_URI'] = ''
+app.config['SECRET_KEY'] = ''
 
 mongo = PyMongo(app)
 
